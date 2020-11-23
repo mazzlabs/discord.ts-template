@@ -11,7 +11,7 @@
   "dependencies": {
     "@types/node": "^14.14.9",
     "canvas": "^2.6.1",
-    "discord.js": "^12.4.1",
+    "discord.js": "^12.5.0",
     "dotenv": "^8.2.0",
     "fs": "^0.0.2",
     "genius-lyrics-api": "^3.0.3",
