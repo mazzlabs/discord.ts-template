@@ -19,7 +19,7 @@
     "moment": "^2.29.1",
     "systeminformation": "^4.34.5",
     "yt-search": "^2.5.1",
-    "ytdl-core": "^4.4.2"
+    "ytdl-core": "^4.4.3"
   },
   "devDependencies": {
     "@typescript-eslint/eslint-plugin": "^4.13.0",
