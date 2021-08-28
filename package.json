@@ -9,7 +9,7 @@
   "author": "",
   "license": "ISC",
   "dependencies": {
-    "@types/node": "^15.12.2",
+    "@types/node": "^16.7.4",
     "canvas": "^2.8.0",
     "discord.js": "^12.5.3",
     "dotenv": "^10.0.0",
